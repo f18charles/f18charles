@@ -11,6 +11,8 @@ I understand Git and team workflows. I write code that others can read and exten
 
 I care about clean code, clear logic, and steady improvement. No shortcuts that break later.  
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/favor~owuor)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable_Depth1875)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f.18charles@gmail.com)
 
 # 💻 What I’m Working On:
 - Building backend systems with Go  
@@ -34,9 +36,3 @@ I care about clean code, clear logic, and steady improvement. No shortcuts that 
 - Efficient code and performance  
 - Building tools that solve real problems  
 - Learning by building, not just reading  
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/favor~owuor)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Remarkable_Depth1875)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f.18charles@gmail.com)
