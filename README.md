@@ -33,7 +33,3 @@ I care about clean code, clear logic, and steady improvement.
 - System design
 - Efficient code and performance  
 - Building tools that solve real problems
-
-# 📊 GitHub Stats:
----
-[![](https://visitcount.itsvg.in/api?id=f18charles&icon=0&color=0)](https://visitcount.itsvg.in)
